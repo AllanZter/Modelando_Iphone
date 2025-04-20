@@ -1,9 +1,4 @@
-# [DIO](www.dio.me) - Trilha Java Básico
 
-## Autores
-- [Gleyson Sampaio](https://github.com/glysns)
-
-## POO - Desafio
 
 ### Modelagem e Diagramação de um Componente iPhone
 
